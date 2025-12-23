@@ -1,3 +1,21 @@
-<img width="507" height="817" alt="content" src="https://github.com/user-attachments/assets/bc4786f1-5fd7-4b26-a27a-fff7e09e780a" />
-It's impossible to accurately determine her height from the provided image alone, as there's no visible scale, reference object of known size, or context to measure against. If this is a real person (e.g., a specific model or celebrity), provide more details like her name for me to look up factual info. If it's an AI-generated or fictional image, she doesn't have a "real" height.
-For a rough estimate assuming standard human proportions and that she appears to be a slender adult female model, she'd likely be around 170-180 cm tall (typical for fashion models), but this is just a guess and not precise.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bc4786f1-5fd7-4b26-a27a-fff7e09e780a" width="420" alt="Pink dream aesthetic"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/Status-WIP-pink?style=for-the-badge&logoColor=white&logo=react" alt="status"/>
+  <img src="https://img.shields.io/badge/Vibe-Barbiecore%20×%20Coquette-FF69B4?style=for-the-badge" alt="vibe"/>
+  <img src="https://img.shields.io/badge/Height-???%20cm-%23FFB6C1?style=for-the-badge" alt="height mystery"/>
+</p>
+
+<h1 align="center">✦ 170–180 cm (estimated) ✦</h1>
+
+<div align="center">
+
+```text
+         ╭───────────────────────╮
+         │     HEIGHT MYSTERY     │
+         │     ┌─────────────┐    │
+         │     │   170–180   │    │
+         │     │     cm      │    │
+         │     └─────────────┘    │
+         ╰─────── Model Energy ─────╯
+                (probably)
